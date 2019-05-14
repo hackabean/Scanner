@@ -3,5 +3,5 @@ Quick UDP and TCP network sanner (Nmap + Masscan)
 
 ![Scanner](https://raw.githubusercontent.com/hackabean/Scanner/master/Screenshot_2019-05-14_09-10-38.png)
 
-![Scanner](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LWg2cVMMih6fWmHw12y%2F-LWhYnJwjReBJTIn10KB%2F-LWhZ08KBgMUp0WQ0fOQ%2Fimage.png?alt=media&token=1b1f97f0-6927-4cf7-9bf4-e05d05f54b21)
+![Scanner](https://raw.githubusercontent.com/hackabean/Scanner/master/Screenshot_2019-05-14_09-12-55.png)
 
